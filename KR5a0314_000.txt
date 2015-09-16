@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:46:20.561486
+#+TITLE: 周氏冥通記
+#+PROPERTY: DZID  DZ0302
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—518 四卷 洞真部記傳類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
